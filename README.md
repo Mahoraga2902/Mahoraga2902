@@ -1,4 +1,4 @@
-# Hi, I'm Ian 👋
+# Hi, I'm Ian (Mark)👋
 🔐 Cybersecurity Enthusiast | Computer Science Engineering Student
 
 ---
