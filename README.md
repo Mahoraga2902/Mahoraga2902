@@ -36,10 +36,6 @@
 - 📊 **Splunk SIEM Lab** – Log ingestion, dashboards, and analysis  
 - 🧪 **Cybersecurity Learning Log** – Notes, labs, and hands-on practice  
 
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahoraga2902&show_icons=true)
 
 ---
 
