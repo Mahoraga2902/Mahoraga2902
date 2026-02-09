@@ -45,7 +45,7 @@
 
 ## 📫 Connect with Me
 - GitHub: https://github.com/Mahoraga2902
-- LinkedIn: (to be added)
+- LinkedIn: www.linkedin.com/in/ian-lobo-515a36332
 
 ---
 
