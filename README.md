@@ -17,7 +17,7 @@
 
 - Cybersecurity Tools: Burp Suite, Splunk, Wireshark
 - Concepts: Web Application Security, Log Analysis, Fraud Detection
-- OS: Linux (Mint, Ubuntu), Windows
+- OS: Linux (Mint, Kali, Parrot), Windows
 
 ---
 
