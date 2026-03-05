@@ -8,7 +8,6 @@
 - 🔐 Focused on Web Security, Security Analytics & Threat Detection
 - 🧠 Learning Python, Machine Learning & Network Security
 - 🛠️ Hands-on experience with labs, CTF challenges, and mini projects
-- 🎯 Aspiring Cybersecurity Analyst
 
 ---
 
