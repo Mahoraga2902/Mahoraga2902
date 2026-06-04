@@ -6,7 +6,7 @@
 ## 👨‍💻 About Me
 - 🎓 CSE student with a strong interest in Cybersecurity
 - 🔐 Focused on Web Security, Security Analytics & Threat Detection
-- 🧠 Learning Python, Machine Learning & Network Security
+- 🧠 Learning Python, Software Testing & Web Security
 - 🛠️ Hands-on experience with labs, CTF challenges, and mini projects
 
 ---
